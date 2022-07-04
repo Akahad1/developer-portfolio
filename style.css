@@ -23,10 +23,17 @@ section{
     text-decoration: none;
     padding: 10px 40px;
     border-radius: 10px;
-    background-image: linear-gradient(orange tomato);
+    background-color: linear-gradient(orange tomato);
     background-color: orange;
 }
 .top-banar{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    
+}
+.hit{
+    margin-top: 150px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
